@@ -2,7 +2,17 @@
 OpenCV based video processing tool for finding any discontinuity on a train track . 
 
 
-| NAME OF FILE   | DETAILS   | 
+| FILE NAME  | PUSH NOTES   | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 27_06_color-filtering             | Basic Color Filtering                         |
+| 28_06_sobel-testing-01            | Sobel Edge Detection                          |
+| 29_06_shiTomassi-corner-testing-01| Shi Tomassi Corner Detection                  |
+| 28_06-sobel-testing-01            | Sobel Edge Detection                          |
+| 27_06_color-filtering.py          | Basic Color Filtering                         |
+| 28_06-sobel-testing-01            | Sobel Edge Detection                          |
+| 27_06_color-filtering.py          | Basic Color Filtering                         |
+| 28_06-sobel-testing-01            | Sobel Edge Detection                          |
+| 27_06_color-filtering.py          | Basic Color Filtering                         |
+| 28_06-sobel-testing-01            | Sobel Edge Detection                          |
+| 27_06_color-filtering.py          | Basic Color Filtering                         |
+| 28_06-sobel-testing-01            | Sobel Edge Detection                          |
