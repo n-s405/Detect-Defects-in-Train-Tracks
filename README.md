@@ -6,6 +6,8 @@ The project was done incrementally all the necesssary details in the readme pdf 
 
 
 # examples
+INPUT IMAGE
+![Input Image](https://i.imgur.com/4ID9JFJ.jpg)
 
-![Input Image](https://imgur.com/a/4EEP9ae)
+OUTPUT IMAGE
 ![Output Image](https://i.imgur.com/CAVcbRt.png)
