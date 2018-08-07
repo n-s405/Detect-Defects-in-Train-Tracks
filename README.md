@@ -8,4 +8,4 @@ The project was done incrementally all the necesssary details in the readme pdf 
 # examples
 
 ![Input Image](https://imgur.com/a/4EEP9ae)
-![Output Image](https://imgur.com/a/8tX45KT)
+![Output Image](https://i.imgur.com/CAVcbRt.png)
