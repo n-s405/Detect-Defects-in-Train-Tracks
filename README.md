@@ -10,8 +10,6 @@ Applications involve large scale automated discontinuity identification for incr
 - [x] Algorithm to find discontinuities consitently. 
 - [ ] Optimisation for faster cloud computing _or_ on board mid-tier processors
 
-## More Information 
-__The research done for this system was also published as a research paper which can be read [here](https://drive.google.com/open?id=1VrEZ6yrioNMSc7YD1DvpFNbvUDejMPn4)__ .
 
 
 
@@ -21,3 +19,9 @@ INPUT IMAGE
 
 OUTPUT IMAGE
 ![Output Image](https://i.imgur.com/CAVcbRt.png)
+
+
+
+## More Information 
+__The research done for this system was also published as a research paper which can be read [here](https://drive.google.com/open?id=1VrEZ6yrioNMSc7YD1DvpFNbvUDejMPn4)__ .
+
