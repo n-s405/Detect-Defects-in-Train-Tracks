@@ -15,7 +15,7 @@ __The research done for this system was also published as a research paper which
 
 
 
-# examples
+## Example : _Detection_
 INPUT IMAGE
 ![Input Image](https://i.imgur.com/4ID9JFJ.jpg)
 
