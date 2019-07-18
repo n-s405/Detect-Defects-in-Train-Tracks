@@ -1,7 +1,7 @@
 # Train Defect Detector 
 OpenCV based video processing tool for finding discontinuities on train tracks . Ideal for using on drone footage . 
 Applications involve large scale automated discontinuity identification for increased safety . 
-
+__READ THE PUBLISHED PAPER [HERE](https://drive.google.com/file/d/1VrEZ6yrioNMSc7YD1DvpFNbvUDejMPn4/view)__
 
 ## To do List 
 - [x] Reliable Train Track Identification in a Frame 
